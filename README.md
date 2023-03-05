@@ -3,9 +3,16 @@
 (っ˘▽˘)っ Dr. Angela Yu's Flutter 
 App Dev Course ⊂(◕.◕⊂) 
 
-i-am-rich
+
+Uploaded
+-
+✅ i-am-rich
+✅ mi-card
+
+
+Upcoming:
+-
 quizzler
-mi-card
 magic-8-ball-flutter
 destini-challenge-completed 
 xylophone-flutter
