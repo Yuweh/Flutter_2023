@@ -6,15 +6,19 @@ App Dev Course ⊂(◕.◕⊂)
 
 Uploaded
 -
+
 ✅ i-am-rich
+
 ✅ mi-card
+
+✅ destini-challenge-completed 
 
 
 Upcoming:
 -
 quizzler
 magic-8-ball-flutter
-destini-challenge-completed 
+
 xylophone-flutter
 BMI-Calculator-Flutter-Completed
 dicee-flutter 
