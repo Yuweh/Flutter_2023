@@ -13,11 +13,12 @@ Uploaded
 
 ✅ destini-challenge-completed 
 
+✅ magic-8-ball-flutter
 
 Upcoming:
 -
 quizzler
-magic-8-ball-flutter
+
 
 xylophone-flutter
 BMI-Calculator-Flutter-Completed
