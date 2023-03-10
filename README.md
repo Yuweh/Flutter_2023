@@ -15,16 +15,15 @@ Uploaded
 
 ✅ magic-8-ball-flutter
 
+✅ bitcoin-ticker-flutter
+
 Upcoming:
 -
 quizzler
-
-
 xylophone-flutter
 BMI-Calculator-Flutter-Completed
 dicee-flutter 
 Clima-Flutter 
-bitcoin-ticker-flutter
 flash-chat-flutter 
 
 
