@@ -19,12 +19,18 @@ Uploaded
 
 Upcoming:
 -
-quizzler
-xylophone-flutter
-BMI-Calculator-Flutter-Completed
-dicee-flutter 
-Clima-Flutter 
-flash-chat-flutter 
+
+❌ quizzler
+
+❌ xylophone-flutter
+
+❌ BMI-Calculator-Flutter-Completed
+
+❌ dicee-flutter 
+
+❌ Clima-Flutter 
+
+❌ flash-chat-flutter 
 
 
 (っ˘▽˘)っ 🏆  2023 PROGRESS  ⊂(◕.◕⊂) 
