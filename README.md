@@ -1,36 +1,35 @@
 # Flutter_2023
 
-(っ˘▽˘)っ Dr. Angela Yu's Flutter 
-App Dev Course ⊂(◕.◕⊂) 
-
+# flutter_2023
+(っ˘▽˘)っ Dr. Angela Yu's Flutter App Dev Course ⊂(◕.◕⊂)
 
 Uploaded
--
 
 ✅ i-am-rich
 
 ✅ mi-card
 
-✅ destini-challenge-completed 
+✅ quizzler
+
+✅ destini-challenge-completed
+
+✅ dicee-flutter
 
 ✅ magic-8-ball-flutter
 
 ✅ bitcoin-ticker-flutter
 
-Upcoming:
--
+- - -
 
-❌ quizzler
+Upcoming:
 
 ❌ xylophone-flutter
 
 ❌ BMI-Calculator-Flutter-Completed
 
-❌ dicee-flutter 
+❌ Clima-Flutter
 
-❌ Clima-Flutter 
-
-❌ flash-chat-flutter 
+❌ flash-chat-flutter
 
 
 (っ˘▽˘)っ 🏆  2023 PROGRESS  ⊂(◕.◕⊂) 
