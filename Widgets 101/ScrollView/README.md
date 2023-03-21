@@ -2,7 +2,7 @@
 
 REF: https://medium.flutterdevs.com/scrollbar-widget-in-flutter-8859e19166a1
 
-"""
+ ``` 
 
 import 'package:flutter/material.dart';
 
@@ -83,4 +83,4 @@ class MyItem extends StatelessWidget {
   }
 }
 
-"""
+ ``` 
