@@ -1,4 +1,4 @@
-# Flutter Architecture
+# Bloc Flutter Architecture
 
 Bloc
 
